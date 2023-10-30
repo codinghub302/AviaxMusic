@@ -4,7 +4,7 @@
   <img src="https://telegra.ph/file/29808c1fd50add3b1bfc6.jpg" alt="Aviax Music Logo" width="600" height="150">
 </p>
 
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/codinghub302/AviaxMusic"> <img
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/codinghub302/AviaxMusic"><img
 
 
 <p align="center">
